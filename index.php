@@ -1,4 +1,9 @@
 
+<?php
+$vist_page     =   "index.php";
+include "logger.php";
+?>
+
 <html>
 <body>
 <h1>Hello there Fucker,</h1>
